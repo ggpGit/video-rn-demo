@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "video-rn-demo",
+    "slug": "video-rn-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Test video play demo",
+    "githubUrl": "https://github.com/ggpGit/video-rn-demo"
+  }
+}
